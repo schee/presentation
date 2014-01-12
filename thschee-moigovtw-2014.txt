@@ -1,0 +1,150 @@
+——————
+演講題目
+——————
+
+新型態的公共資訊服務：以 Code for America 和世界銀行的開放發展模式為例
+
+——————
+演講人
+——————
+
+TH Schee 徐子涵 schee@fertta.com
+
+OKFN Taiwan
+
+——————
+演講大綱
+——————
+
+PART 0: Code for America 改造美國
+
+作者：Scott Lee
+https://github.com/pc042672
+
+2011年，波士頓下了一場大雪，雪深及腰，除了淹沒了馬路之外，路旁的救火栓也都被大雪湮沒。面對重要的消防設施全部停擺，當地的政府卻沒有任何作為。眼看情況日益加劇卻沒有改善，就有人寫了一支認養消防栓的 app。透過這支 app，當地居民可以上網認養自家附近的消防栓，負責清除它上面的積雪。很快的，很多人透過這支 app 認養了自家附近的消防栓，有的人甚至還幫自己認養的消防栓取了綽號。同一時間，一位在夏威夷政府IT部門的員工看到了這個點子，便將這個app應用到當地的海嘯預警系統上。讓當地居民可以在海嘯過後，看到附近的水溝蓋被堵塞住了，自動上網通報。而政府再派出清潔隊前往清理。
+
+事實上，民間透過網路自發性參予公共事務的例子還有很多。像是台灣在莫拉克風災以後，網路上就有人自動成立一個網站，讓當地居民可以透過手機傳送求助訊息或發送物資的訊息。讓官方與民間救災組織，在兵荒馬亂的救災現場，可以及時獲得最新的資訊，並讓資源能做最適當的分配。而同樣的技術與概念，更在之後的日本311大地震後派上用場。
+
+用網路與軟體重新定義政府
+
+在美國，有一個新興的 NGO 組織 Code for America 專門在探索用軟體改善政府效能，促進公民參予公共事務的可能性。
+
+Code for America 成立的起緣來自於2009年，當時創辦人在某一個研討會上和一位市政官員聊天，該名官員提到，應該要有人去關心地方層級的公共事務，因為眾多城市們正陷入巨大的危機中—城市的稅收逐漸減少，成本卻是不斷增加 —如果沒有人改變城市的運作方式，那麼今日運作的城市有可能於明日崩毀。
+
+因為這樣的想法，他們兩人開始討論與計畫該如何扭轉這樣的情況，而這樣的計畫概念最後發展成今日的 Code for America。
+
+Code for America 提供一個為期一年的 fellowship 來招募各式各樣的開發者，像是軟體工程師到設計師們，讓他們和政府部門人員合作。透過網路創業家李奧納多林，和 O’Reilly Media 創辦人，Tim O’Reilly 的幫助，以及其他眾多的科技專家們的幫忙，Code for America 這項計畫於2009年正式啟動，在西雅圖，波士頓，賓州，華盛頓大學等地發起各項專案計畫。
+
+目前，Code for America 的主要目標是將頂尖網路技術開發者和市政服務提供者們串連起來，讓他們協同合作，利用網路的力量與運作邏輯協助市政府的組織和服務轉型，用更少的成本達到更大的影響。透過這些方式讓市政府們變得更加透明，更容易互動，和更有效率。
+
+Code for America 的主要執行成員有 Andrew Greenhill，他目前是 Tucson City 的人事部門主任，幾間知名網路公司的創辦人如 Tumblr 的 Andrew Mclaughlin 榮譽執行長則有 Morrica Harrington, Tim O’Reilly。而其顧問群同樣來自四面八方，橫跨各個領域，包含知名作家 Clay Shirky，目前任教於紐約哥倫比亞大學。
+
+Code for America 一直以來的使命是想要啟發當今的政府部門，讓他們想像一個21世紀的政府是如何的為公民所有，並由公民管理其公共事務。感謝他們，目前已經有了為數眾多的人加入了他們的行列。而向其贊助的企業也橫跨各個領域，從 Nike 到 Google 等。
+
+我們可以預見在不久的將來，Code for America 會替美國的政府部門帶來更不一樣的面貌。
+
+
+PART I: Opening Government Data 開放政府資料
+
+大綱譯者 TH Schee
+https://github.com/codefortomorrow/beyondtransparency
+
+1. Open Data and Open Discourse at Boston Public Schools 波士頓公立學校的的開放資料和開放對話
+
+公民軟體工程師 Joel Mahoney 說明了從1960代以後爭執不休的主題：波士頓公立學校學生的回家作業政策，是如何透過開放政府資料而重新改變討論的氛圍。他表示，開放資料不只讓公共討論更能根植於實情，也在調整政策與社會價值趨近的部份，扮演了維護民主價值的角色。
+
+2. Open Data in Chicago: Game On 芝加哥開放資料的經驗
+
+我們來到了芝加哥市，這是美國少數啟動全面性地方型開放資料計畫的標竿城市。芝加哥首任的資料長 Brett Goldstein 訴說從無到有的故事，他分享了如何在市府內部舉辦工作坊的第一手經驗，如何建造一個支撐開放資料的永續資訊架構。
+
+3. Building a Smarter Chicago 建立智慧的芝加哥
+
+我們從另外一個角度來看芝加哥市的開放資料計畫。Daniel X. O’Neil 是 Smart Chicago Collaborative 的執行總監，他在過去曾與芝加哥市政府、當地開放資料活躍人士密切合作，將城市的發展往這個方向推動。他說明幾個關鍵點是如何促成了開放資料生態圈，得以在芝加哥市蓬勃發展，如資料、政策、程式開發者、資本和產品等。
+
+4. Lessons from the London Datastore 倫敦資料市集的課題
+
+來自 London Datastore 的 Emer Coleman—founder 在第四章的篇幅裡，揭露了來自非美國的主要城市觀點。她分享了建立 Datastore 時的來自個人的觀察，有什麼樣的政策支持，以及將資料是放給公眾的各種挑戰。
+
+5. Asheville’s Open Data Journey: Pragmatics, Policy, and Participation 開放資料的旅程：實務、政策和參與
+
+我們來檢驗開放資料如何在沒有豐富資源的小規模城市，怎麼帶來巨大的衝擊。在第五章的內容，我們看到了北卡 Ashville（人口：85,000）的資訊長 Jonathan Feldman 如何將開放資料視為長期投資，還有小型城市的特有機會和挑戰。他鼓勵其他規模的城市考慮多考開放資料實務面的問題。
+
+PART II: Building on Open Data 建基於開放資料
+
+當政府的資料開放後，誰會使用？如何被使用？那些意料之外或是慢慢浮現的應用是什麼？在本段落，我們將聽到來自企業家、記者、社區組織者、政府雇員，以及私人企業等利益相關者是如何使用這些資料，並且又學到了什麼。
+
+6. From Entrepreneurs to Civic Entrepreneurs 從創業到公民創業
+
+由 Brightscope 的兩位共同創辦人 Ryan 和 Mike Alfred 開始。他們的故事不是由開放資料開始，而是在更為前面的階段。為了建立他們的企業，他們和聯邦機構合作，協助釋出和數位化政府的紀錄。在這過程當中，他們不只創造了一個成功的公司，而且扮演在合作的機構之間成為觸媒的角色，讓開放資料的環境更為友善。他們分享了如何善用政府資料來建立自己公司，討論資料標準的重要性，並且如何進一步減少其他新創企業在這部份可能面臨的障礙。
+
+7. A Journalist’s Take on Open Data 媒體、記者和開放資料
+
+我們聽到來自芝加哥市記者 Elliott Ramos 談論他和開放公共資料的關係。他特別提到在芝加哥市的開放資料計畫之後所能獲得的大量資料，改變了他對於地方新聞的報導方式，也成就了新型態說故事的方法。
+
+8. Oakland and the Search for the Open City 奧克蘭的開放城市經驗
+
+Steve Spiker 是都市策略議會的研究總監，這是一個已經有26年歷史，支持奧克蘭市創新發展的機構，他們常常使用政府的資料。在第九章，他寫道了奧克蘭市政府在初期的開放資料的作為是怎麼影響了當地社區組織者和研究者的工作，他也順便警告了僅僅基於非常有限的資料所推動的開放政府 (open government) 有其相當的限制。
+
+9. Pioneering Open Data Standards: The GTFS Story 開放資料標準的先鋒
+
+波特蘭市的 Bibiana McHugh，說明他在波特蘭市的公眾運輸公司 (TriMet) 如何和 Google 發展一套轉乘交換的資料標準，而這套標準目前如何被全世界幾百個城市所採用，讓人們更容易取得轉乘和駕駛資訊。她說明公私夥伴關係 (public-private partnerships) 如何將開放政府資料帶到人們已經習慣，賴以消費資訊的平台。
+
+PART III: Understanding Open Data 了解開放資料
+
+本段落著重於探索開放政府資料影響更為廣泛的數個面向。來自產業的專家們，除了詳述促成改變所帶來之效益的重要元素之外，也概括說明開放資料在公共空間、民主進程和經濟發展所帶來的衝擊。
+
+10. Making a Habit Out of Engagement: How the Culture of Open Data Is Reframing Civic Life 讓參與成為一種生活態度：文化內容的開放
+
+Eric Gordon 和 Jessica Baldwin-Philippi 認為開放資料的運動不僅僅是代表政府資料更容易取得而已，進一步來說，應該是重新架構了將資源由政府資產轉化為全民資產的過程。在重新的架構之下，許多工具被開發出來，鼓勵公民將個人資料透過網路協作的服務，主動行使公民權利。這章節說明開放資料的文化如何促進好的公民習慣，例如主動學習和永續的公民參與
+
+11. The Beginning of a Beautiful Friendship: Data and Design in Innovative Citizen Experiences 美麗友誼的開始：資料、設計和市民體驗
+
+由使用者經驗專家 Cyd Harrell 探索設計的原則如何應用在開放資料，並且表示公民導向的途徑是完全實現在生活和參與過程之中，實現開放資料最大潛力不可或缺條件。
+
+12. Generating Economic Value through Open Data 開放資料的經濟價值
+
+來自 McKinsey Global Institute 的 Michael Chui, Diana Farrell 和 Steve Van Kuiken 在第十三章研究開放資料如何產生經濟價值。他們所建議的架構，能夠促成開放資料的領導者進一步解放其潛在的價值。
+
+13. Local Scale and Local Data 地方與地域資料
+
+New America Foundation 的 Alissa Black 和 Rachel Burstein 討論開放資料在地域創新的可能性，例如如何促進民眾生活改善，讓政府更對於地域住民的反應更為即時。他們謹慎反對將小規模且缺乏資源的城市，排除在開放資料的列車之外，而進一步列出推動公民創新的數個步驟，以保障創新能普及到各級政府。
+
+PART IV: Driving Decisions with Data 透過資料推動決策
+
+如果當地方政府不是僅僅為了透明治理而透明，特別將開放資料視為輔助決策的工具時，成為資料驅動的組織，這會發生什麼事？在這個段落，我們會聽到來自各領域實務工作者的背後的理念，說明當他們協助政府時，除了將資料開放给公眾使用之外，另外還能讓內部的決策過程，能透過資料持續的改善流程、政策品質和資源的佈署。
+
+14. Beyond Open Data: The Data-Driven City 超越開放資料：資料驅動的城市
+
+紐約市有史以來的第一位分析長 Mike Flowers 描述紐約市是如何應用資料預測分析，在服務的傳遞上，改善政府的效能。從一開始他們就善用市府現有的開放資料集，他回溯了他們計畫是如何成功和發展的軌跡。
+
+15. Why Data Must Drive Decisions in Government 為什麼政府需要透過資料產生決策
+
+Beth Blauer 分享她和馬里蘭州長合作，建立一個擴及全州的績效提昇計畫。說明了如何以一個私人企業的角色 Socrata（開放資料服務提供商）成功建立這個計畫的經驗，如何讓地方政府更容易執行其績效管理和提昇的計畫。
+
+16. Beyond Transparency: Louisville’s Strategic Use of Data to Drive Continuous Improvement 超越透明：如何持續進步和資料的運用策略
+
+來自 Louisville 的 StateStat 的實例和作法。Louisville 的 Theresa Reno-Weber（績效管理負責人）和 Beth Niblock（資訊長）描述績效管理在 Louisville 的具體成效，這包含每年減少高達三百萬美金的加班費支出。從 Louisville 所採取的敏捷創新途徑和「最低限度可用的產品 (minimum viable product)」的模式裡，他們汲取出可以協助國內其他城市如何運用開放資料來達到更多，但卻做的更少。
+
+17. Benchmarking Performance Data 資料的績效
+
+Ken Wolf 和 John Fry，這兩位有著豐富經驗，協助地方政府導入改善管理績效軟體的專家，透過幾個例子說明資料驅動的績效管理，如何在其他擁有願景的城市，讓各城市間的最佳作法能夠透過比較和分享，進而發展出鼓勵互相協作的績效指標。他們分享判讀是否成功的幾個跡象，並且說明還需要更進一步做什麼。
+
+PART V: Looking Forward 向前看
+
+將開放資料的運動帶入下一個階段會需要什麼呢？還有什麼樣的障礙、挑戰是需要特別關注的？本段落將揭示這些重要的課題，並且期待一個藉由開放資料所達成的公民創新。
+
+18. Towards a Community Data Commons 社會共創
+
+首先，來自華盛頓特區，長期主張社會服務資料重要性的 Greg Bloom 探索開放資料成為社會共創的點子。他立下藍圖，說明一個類似「資料協作」的概念，能如何確保更佳的公共資產維護和管理。
+
+19. New Thinking in How Governments Deliver Services 政府服務面貌的新解
+
+接下來，費城市的首任資料長 Mark Headd 建議，提到開放資料是啟動新型態市政服務改革的重要第一步。他描述了政府採購技術的改善是如何的至為關鍵，因為這能在市政府的內部文化和維運層面，推動更為長遠的改革。
+
+20. Open Data and Algorithmic Regulation 開放資料與演算型法規
+
+最後，開放政府倡議者 Tim O'Reilly 透過一個「演算型法規 (algorithmic regulation)」的概念，提出政府要如何運用例如感測技術和分享經濟等新興科技，讓法規和治理更趨於有效？他主張具有明晰目的和智慧分析的能力，結合開放資料，將有助於政府責信的提昇，以及不斷的改善21世紀的政府。
+
+PART VI: Open Development in World Bank 開放的世銀
+
+
